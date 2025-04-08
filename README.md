@@ -14,7 +14,7 @@ This app helps you generate secure passwords, save them, and retrieve them later
 
 ## 📸 Screenshot
 
-*(You can add an image of your app window here)*
+*![image](https://github.com/user-attachments/assets/af44c596-ebb0-4f60-9712-bc3e06f613fc)*
 
 ## 🛠 Requirements
 
